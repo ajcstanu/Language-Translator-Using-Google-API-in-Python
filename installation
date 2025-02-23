@@ -1,0 +1,8 @@
+install 1st :pip install googletrans
+for checking:
+import googletrans
+print(googletrans.LANGUAGES)
+
+2nd : pip install pyaudio
+pip install SpeechRecognition
+pip install gtts
